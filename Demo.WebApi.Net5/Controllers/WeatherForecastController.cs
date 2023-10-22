@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -47,12 +48,67 @@ namespace Demo.WebApi.Net5.Controllers
         }
         
         [HttpGet]
-        public WeatherForecast Get3()
+        public WeatherForecast Get3([FromQuery(Name="parameter")] string summary)
         {
             return new WeatherForecast
             {
-                
+                Summary = summary
             };
         }
+        
+        [HttpGet("summary")]
+        public WeatherForecast Get4([FromRoute] string summary)
+        {
+            return new WeatherForecast
+            {
+                Summary = summary
+            };
+        }
+        
+        [HttpPost("post")]
+        public WeatherForecast Post1([FromBody]ComplexType x)
+        {
+            return new WeatherForecast
+            {
+                Summary = $"{x.SingleType} {x.Id} {x.SingleType?.Value}"
+            };
+        }
+        
+        [HttpPost("post")]
+        public IActionResult Post([FromBody]ComplexType x)
+        {
+            var context = new ValidationContext(x);
+            var validationResults = new List<ValidationResult>();
+            bool isValid = Validator.TryValidateObject(x, context, validationResults, true);
+            if (!isValid)
+            {
+                var errors = validationResults.Select(x => new Error()
+                {
+                    Message = $"{x.ErrorMessage}"
+                }).ToArray();
+                return BadRequest(errors);
+            }
+            return Ok(new WeatherForecast
+            {
+                Summary = $"{x.SingleType} {x.Id} {x.SingleType?.Value}"
+            });
+        }
+    }
+
+    public class Error
+    {
+        public string Message { get; set; }
+    }
+
+    public class ComplexType
+    {
+        public string StringValue { get; set; }
+        public int Id { get; set; }
+        public SingleType SingleType { get; set; }
+    }
+
+    public class SingleType
+    {
+        public string Value { get; set; }
     }
 }
