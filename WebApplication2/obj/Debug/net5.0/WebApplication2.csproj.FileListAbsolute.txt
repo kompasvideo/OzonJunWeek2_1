@@ -1,0 +1,87 @@
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/appsettings.Development.json
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/appsettings.json
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.exe
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.deps.json
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.runtimeconfig.json
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.runtimeconfig.dev.json
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.dll
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.pdb
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.Views.dll
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.Views.pdb
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.AssemblyInfoInputs.cache
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.AssemblyInfo.cs
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.csproj.CoreCompileInputs.cache
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.RazorAssemblyInfo.cache
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.RazorAssemblyInfo.cs
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.TagHelpers.input.cache
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.TagHelpers.output.cache
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.RazorCoreGenerate.cache
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.RazorTargetAssemblyInfo.cache
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.RazorTargetAssemblyInfo.cs
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.Views.pdb
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/scopedcss/bundle/WebApplication2.styles.css
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/staticwebassets/WebApplication2.StaticWebAssets.Manifest.cache
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/staticwebassets/WebApplication2.StaticWebAssets.Pack.cache
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/staticwebassets/msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/staticwebassets/msbuild.build.WebApplication2.props
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication2.props
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.WebApplication2.props
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.dll
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/refint/WebApplication2.dll
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.pdb
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.genruntimeconfig.cache
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/ref/WebApplication2.dll
+C:/My/Обучение/Ozon/Junior1/Неделя 2/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.csproj.CopyComplete
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/appsettings.Development.json
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/appsettings.json
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.deps.json
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.runtimeconfig.json
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.runtimeconfig.dev.json
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.dll
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.pdb
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.Views.dll
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/bin/Debug/net5.0/WebApplication2.Views.pdb
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.csproj.AssemblyReference.cache
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.AssemblyInfoInputs.cache
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.AssemblyInfo.cs
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.csproj.CoreCompileInputs.cache
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.RazorAssemblyInfo.cache
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.RazorAssemblyInfo.cs
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/scopedcss/bundle/WebApplication2.styles.css
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/staticwebassets/WebApplication2.StaticWebAssets.Manifest.cache
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/staticwebassets/WebApplication2.StaticWebAssets.Pack.cache
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/staticwebassets/msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/staticwebassets/msbuild.build.WebApplication2.props
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication2.props
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.WebApplication2.props
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.TagHelpers.input.cache
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.TagHelpers.output.cache
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.RazorCoreGenerate.cache
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.RazorTargetAssemblyInfo.cache
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.RazorTargetAssemblyInfo.cs
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.Views.pdb
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.dll
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/refint/WebApplication2.dll
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.pdb
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.genruntimeconfig.cache
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/ref/WebApplication2.dll
+/home/andrey/RiderProjects/Demo1_1.Empty.Net5/WebApplication2/obj/Debug/net5.0/WebApplication2.csproj.CopyComplete

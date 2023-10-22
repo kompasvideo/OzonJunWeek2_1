@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WDKDfnUqFZ991X2n0h7JYR194R6FKnJ+KHY74bIcv00=",
+  "Source": "Demo.WebApi.Net5",
+  "BasePath": "_content/Demo.WebApi.Net5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
